@@ -1,4 +1,3 @@
-
 function calculateTip() {
     var amount = parseInt(document.querySelector('#amt').value);
     var people = parseInt(document.querySelector('#peop').value);
@@ -43,7 +42,5 @@ function calculateTip() {
         console.log(terrible)
         document.querySelector('#ans').innerHTML = terrible;
     }
-
-
 
 }
