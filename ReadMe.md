@@ -37,7 +37,7 @@ OR
 - open index.html in your browser.
 
 ## Repo Link:
-https://github.com/rafatfatima-qa/Grocery-List-App
+https://github.com/Hassan837/Class-Online-Group-Task-Tip-Calculator
 
 ## Live Link:
-https://rafatfatima-qa.github.io/Grocery-List-App/
+https://hassan837.github.io/Class-Online-Group-Task-Tip-Calculator/
